@@ -5,4 +5,4 @@ if [ ! -d "inbox" ]; then
     exit 1
 fi
 
-python3 email_processor.py .
+python3 distribution_of_email.py .
