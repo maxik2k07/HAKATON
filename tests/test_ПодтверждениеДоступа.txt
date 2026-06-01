@@ -1,0 +1,7 @@
+Subject: Запрос на доступ к GitLab и VPN
+From: n.sokolova@corp.ru
+To: it-support@corp.ru
+
+Прошу выдать доступ к GitLab и подключить VPN.
+Также нужен доступ к Confluence.
+Логин: n.sokolova
